@@ -16,7 +16,7 @@ I designed this because I wanted to make a nice gift for any occasion.
 
 You can find the gerber files [here](./gerbers).
 
-I sent the PCB gerber files to jlcpcb.com for manufacturing and this is how it looks like.
+I sent the PCB gerber files to ***[jlcpcb.com](https://jlcpcb.com/)*** for manufacturing and this is how it looks like.
 
 ![pictures/3.jpg](pictures/3.jpg)
 
